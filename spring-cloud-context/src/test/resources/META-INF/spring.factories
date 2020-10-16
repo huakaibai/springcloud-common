@@ -1,0 +1,6 @@
+# Bootstrap components
+org.springframework.cloud.bootstrap.BootstrapConfiguration=\
+org.springframework.cloud.bootstrap.TestBootstrapConfiguration,\
+org.springframework.cloud.bootstrap.TestHigherPriorityBootstrapConfiguration,\
+org.springframework.cloud.util.random.CachedRandomPropertySourceAutoConfiguration
+
